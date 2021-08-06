@@ -7,5 +7,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, This is 1st BridgeLabz Java Program");
         System.out.println("UC-1 Changes");
+        System.out.println("UC-2 Changes");
     }
 }
